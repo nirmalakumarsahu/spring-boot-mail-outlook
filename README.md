@@ -1,2 +1,2 @@
-# spring-boot-with-microsoft-outlook
-spring-boot-with-microsoft-outlook
+# spring-boot-mail-outlook
+spring-boot-mail-outlook
